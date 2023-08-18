@@ -1,0 +1,32 @@
+[{
+        "icon": "Blog",
+        "name": "博客",
+        "link": "https://blog.wudl.cn/"
+    },
+    {
+        "icon": "Cloud",
+        "name": "图床",
+        "link": "https://7bu.top/"
+    },
+    {
+        "icon": "Robot",
+        "name": "chatgpt",
+        "link": "https://chatgpt.wudl.cn/"
+    },
+    {
+        "icon": "Guitar",
+        "name": "音乐",
+        "link": "https://blog.wudl.cn/music/"
+    },
+
+    {
+        "icon": "Book",
+        "name": "说说",
+        "link": "https://blog.wudl.cn/essay/"
+    },
+    {
+        "icon": "GlassMartiniAlt",
+        "name": "开发中...",
+        "link": "#"
+    }
+]
